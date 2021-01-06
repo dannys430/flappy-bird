@@ -1,6 +1,6 @@
 # Flappy Bird Clone
 
-Built with HTML Canvas
+Built with JavaScript and HTML Canvas
 
 ## Features:
 1. dark/light theme
